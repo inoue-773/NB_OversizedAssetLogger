@@ -3,6 +3,8 @@
 
 
 Are you tired of tracking down all the oversized asset that are shown on server console? Well, this could be your lifesaver. This script automatically exports the names of oversized assets and save it into one txt file. You do not have to scroll up and down the entire server console to read through error messages anymore!
+[日本語はこちら](https://github.com/inoue-773/NB_OversizedAssetLogger/tree/main?tab=readme-ov-file#%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%99%E3%81%8E%E3%82%8B%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%AD%E3%82%B0%E5%87%BA%E5%8A%9B%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88)
+
 ## Usage
 
 Simply download the script and put it into resource folder. It will do the rest of the work for you.
